@@ -1,0 +1,54 @@
+
+h1{
+    background-color: #1F509AF7;
+    padding: 10px;
+    text-align: center;
+    font-family: system-ui, Montserrat;
+}
+
+body{
+    background-color: #81BFDA;
+    font-family: roboto;
+}
+
+h5{
+    background-color: #B1F0F7;
+    padding: 5px 10px; /* Padding kecil di atas/bawah dan kiri/kanan */
+    height: auto; /* Menyesuaikan tinggi otomatis berdasarkan konten */
+    width: 120px; /* Menyesuaikan lebar otomatis berdasarkan konten */
+    text-align: center;
+    font-family: system-ui, Montserrat;
+    font-size: 14px; /* Ukuran font lebih kecil */
+    margin: 0 auto; /* Menyelaraskan elemen secara horizontal di tengah */
+    display: block; /* Menjadikan elemen block supaya margin auto bekerja */
+}
+
+.no-1{
+    background-color: #4335A7;
+    height: auto; /* Menyesuaikan tinggi otomatis berdasarkan konten */
+    width: 260px; /* Menyesuaikan lebar otomatis berdasarkan konten */
+}
+
+.no-2{
+    background-color: #4335A7;
+    height: auto; /* Menyesuaikan tinggi otomatis berdasarkan konten */
+    width: 155px; /* Menyesuaikan lebar otomatis berdasarkan konten */
+}
+
+.no-3{
+    background-color: #4335A7;
+    height: auto; /* Menyesuaikan tinggi otomatis berdasarkan konten */
+    width: 250px; /* Menyesuaikan lebar otomatis berdasarkan konten */
+}
+
+.no-4{
+    background-color: #4335A7;
+    height: auto; /* Menyesuaikan tinggi otomatis berdasarkan konten */
+    width: 90px; /* Menyesuaikan lebar otomatis berdasarkan konten */
+}
+
+.no-5{
+    background-color: #4335A7;
+    height: auto; /* Menyesuaikan tinggi otomatis berdasarkan konten */
+    width: 150px; /* Menyesuaikan lebar otomatis berdasarkan konten */
+}
